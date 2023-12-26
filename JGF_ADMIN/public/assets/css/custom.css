@@ -1,0 +1,24 @@
+.header_menu {
+    display: flex;
+    align-items: center;
+}
+.header_menu h5 {
+    font-size: 20px;
+    margin: 0;
+}
+.brand-logo img {
+    height: 30px;
+}
+.auth_logo {
+    display: flex;
+    align-items: center;
+}
+.auth_logo img {
+    color: white !important;
+}
+.auth_logo p {
+    float: left;
+    color: white;
+    padding-left: 10px;
+    font-size: 30px;
+}
